@@ -1,2 +1,2 @@
 # my-new-repo
-connceting s code to github
+connceting vs code to github
